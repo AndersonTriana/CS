@@ -1,3 +1,9 @@
+
+![alt text](image.png)
+
+Wireframes: 
+https://www.figma.com/design/sG5AY1O4Y5OttS1B57zAXq/Streamlit-Design-System-(Community)?node-id=121-1620&t=uvuh0E8R4DRjGujx-1
+
 # Technical instructions
 
 ## Create and activate Python virtual environment
